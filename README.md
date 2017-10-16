@@ -1,3 +1,5 @@
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-RxFBase-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/6345)
+
 # RxFBase
 wrapping firebase with rx
 
