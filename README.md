@@ -3,7 +3,7 @@
 # RxFBase
 wrapping firebase with rx
 
-Yesterday, I have a problem when doing real-time mapping (maps) using firebase. So, I try to create this library for my case. enjoy!
+In the past, I have a problem when doing real-time mapping (maps) using firebase. So, I try to create this library for my case. enjoy!
 
 TODO:
 - [x] firebase database
