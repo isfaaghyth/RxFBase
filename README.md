@@ -3,7 +3,7 @@
 # RxFBase
 wrapping firebase with rx
 
-In the past, I have a problem when doing real-time mapping (maps) using firebase. So, I try to create this library for my case. enjoy!
+In the past, I have a problem when doing real-time marker mapping (maps) using firebase. So, I tried to create this library for my case. enjoy!
 
 TODO:
 - [x] firebase database
@@ -27,6 +27,7 @@ Add the dependency
 ```
 compile 'com.github.isfaaghyth:RxFBase:1.0.0'
 ```
+
 ## Usage
 set value:
 ```java
