@@ -25,7 +25,7 @@ allprojects {
 Add the dependency
 
 ```
-compile 'com.github.isfaaghyth:RxFBase:1.0.0'
+implementation 'com.github.isfaaghyth:RxFBase:1.0.0'
 ```
 
 ## Usage
